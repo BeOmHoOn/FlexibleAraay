@@ -1,1 +1,2 @@
-# FlexibleAraay
+# FlexibleArray
+## Flexibly resizable array.
