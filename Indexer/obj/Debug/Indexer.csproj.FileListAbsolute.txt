@@ -1,0 +1,7 @@
+C:\Users\mello\source\repos\Indexer\Indexer\bin\Debug\Indexer.exe.config
+C:\Users\mello\source\repos\Indexer\Indexer\bin\Debug\Indexer.exe
+C:\Users\mello\source\repos\Indexer\Indexer\bin\Debug\Indexer.pdb
+C:\Users\mello\source\repos\Indexer\Indexer\obj\Debug\Indexer.csprojResolveAssemblyReference.cache
+C:\Users\mello\source\repos\Indexer\Indexer\obj\Debug\Indexer.csproj.CoreCompileInputs.cache
+C:\Users\mello\source\repos\Indexer\Indexer\obj\Debug\Indexer.exe
+C:\Users\mello\source\repos\Indexer\Indexer\obj\Debug\Indexer.pdb
